@@ -1,9 +1,14 @@
 // CALORIMETRO
 
+/*
+RECUERDA  : Intañlar las librerias necearias si usas el IDE de arduino local -https://www.youtube.com/watch?v=Zs643m-xkWc&t=133s-
+*/
+
 //LIBRERIAS
 #include <DS18B20.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
+
 
 //DEFINCINO DE PINES 
 #define MESCLADOR 7
